@@ -1,0 +1,101 @@
+{
+    "2026-05-10": {
+        "AML": {
+            "I": {
+                "AI3046": {
+                    "name": "Umesh",
+                    "status": "Present",
+                    "entry_time": "19:45",
+                    "exit_time": null,
+                    "method": "Face Recognition"
+                }
+            }
+        }
+    },
+    "2026-05-11": {
+        "AML": {
+            "I": {
+                "AI3046": {
+                    "name": "Umesh",
+                    "status": "Late",
+                    "entry_time": "17:12",
+                    "exit_time": null,
+                    "method": "Face Recognition"
+                },
+                "AI3047": {
+                    "name": "Chaitanya_Muthe",
+                    "status": "Present",
+                    "entry_time": "17:00",
+                    "exit_time": null,
+                    "method": "Face Recognition"
+                },
+                "AI3050": {
+                    "name": "Abhishek_Bhone",
+                    "status": "Present",
+                    "entry_time": "17:02",
+                    "exit_time": null,
+                    "method": "Face Recognition"
+                },
+                "AI3049": {
+                    "name": "kartik__Autade",
+                    "status": "Present",
+                    "entry_time": "17:01",
+                    "exit_time": null,
+                    "method": "Face Recognition"
+                },
+                "AI3055": {
+                    "name": "Aditya_Bhumkar",
+                    "status": "Exited (Unverified)",
+                    "entry_time": "17:16",
+                    "exit_time": "17:30",
+                    "method": "Face Recognition"
+                }
+            }
+        },
+        "DL": {
+            "II": {
+                "AI3047": {
+                    "name": "Chaitanya_Muthe",
+                    "status": "Auto-Carried",
+                    "entry_time": "17:30",
+                    "exit_time": null,
+                    "method": "Verified Presence"
+                },
+                "AI3049": {
+                    "name": "kartik__Autade",
+                    "status": "Exited",
+                    "entry_time": "17:30",
+                    "exit_time": "17:46",
+                    "method": "Verified Presence"
+                },
+                "AI3050": {
+                    "name": "Abhishek_Bhone",
+                    "status": "Auto-Carried",
+                    "entry_time": "17:30",
+                    "exit_time": null,
+                    "method": "Verified Presence"
+                },
+                "AI3046": {
+                    "name": "Umesh",
+                    "status": "Auto-Carried",
+                    "entry_time": "17:30",
+                    "exit_time": null,
+                    "method": "Verified Presence"
+                }
+            }
+        }
+    },
+    "2026-05-22": {
+        "AML": {
+            "II": {
+                "AI3046": {
+                    "name": "Umesh",
+                    "status": "Late",
+                    "entry_time": "16:36",
+                    "exit_time": null,
+                    "method": "Face Recognition"
+                }
+            }
+        }
+    }
+}
